@@ -1,5 +1,5 @@
 # annotate-image
-Simple image annotaion script
+Simple image annotation script
 
 ## Requirements
 ImageMagick https://imagemagick.org/script/download.php
